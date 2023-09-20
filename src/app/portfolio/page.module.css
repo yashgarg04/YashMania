@@ -23,7 +23,7 @@
     background-size: cover !important;
   }
   
-  .item:nth-child(1) {
+  /* .item:nth-child(1) {
     background: url("/illustration.png");
   }
   .item:nth-child(2) {
@@ -31,7 +31,7 @@
   }
   .item:nth-child(3) {
     background: url("/apps.jpg");
-  }
+  } */
   
   .title {
     position: absolute;
